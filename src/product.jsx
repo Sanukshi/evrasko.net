@@ -238,7 +238,7 @@ function ProductHero() {
             Bring supplier profiles, procurement relationships, risk assessments, performance indicators, forecasts, and mitigation actions into one structured intelligence workspace.
           </p>
           <div className="mt-9 flex flex-wrap gap-3">
-            <Button href="/product" className="shadow-[0_10px_30px_-8px_rgba(255,90,78,0.65)]">
+            <Button href="https://app.evrasko.net/" target="_blank" className="shadow-[0_10px_30px_-8px_rgba(255,90,78,0.65)]">
               Explore Platform
             </Button>
             <Button href="#technology" variant="outlineLight">
