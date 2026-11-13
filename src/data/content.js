@@ -37,7 +37,7 @@ export const site = {
   phoneLabel: 'Talk to us',
   phone: '+94 37 222 6831',
   phoneHref: 'tel:+94372226831',
-  primaryCta: 'Request a Demo',
+  primaryCta: 'Evra X.1',
 };
 
 export const navLinks = [
@@ -58,7 +58,7 @@ export const hero = {
   headline: 'Disconnected Supplier Records Delay Risk Decisions',
   subtext:
     'Evrasko centralizes supplier and risk data to support faster, informed procurement decisions.',
-  primaryCta: { label: 'Request a Demo', href: './product.html' },
+  primaryCta: { label: 'Evra X.1', href: './product.html' },
   secondaryCta: { label: 'Explore the Platform', href: '#platform' },
   mainImage: {
     src: heroMain,

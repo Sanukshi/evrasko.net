@@ -132,7 +132,7 @@ function DetailsModal({ item, color, image, onClose, onNavigate }) {
           )}
           <div className="mt-8 flex flex-wrap gap-3">
             <Button href="./product.html" onClick={onNavigate}>
-              Request a Demo
+              Evra X.1
             </Button>
             <Button variant="outlineDark" arrow={false} onClick={onClose}>
               Close
@@ -185,7 +185,7 @@ export default function UseCases() {
               <h3 className="relative text-2xl font-semibold">Not sure where Evrasko fits your team?</h3>
               <p className="relative mt-3 max-w-md text-white/70">Tell us how your suppliers are managed today and we will show you the setup that suits you.</p>
               <Button href="./product.html" className="relative mt-6 w-fit">
-                Request a Demo
+                Evra X.1
               </Button>
             </div>
           </Reveal>
